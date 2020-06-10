@@ -12,4 +12,3 @@ else
 	echo "Argument is not Integer."
 	exit 1
 fi
-
